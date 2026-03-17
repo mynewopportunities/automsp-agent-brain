@@ -8,3 +8,7 @@ __pycache__/
 canvas/
 *.zip
 *.rar
+instagram_extractor/*.py
+setup_accountability.py
+notion_query.sh
+log_task.sh
