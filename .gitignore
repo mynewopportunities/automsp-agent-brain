@@ -1,0 +1,10 @@
+.openclaw/
+*.db
+*.db-shm
+*.db-wal
+*.log
+__pycache__/
+*.pyc
+canvas/
+*.zip
+*.rar

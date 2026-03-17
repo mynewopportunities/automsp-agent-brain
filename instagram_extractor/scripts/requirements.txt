@@ -1,0 +1,5 @@
+instaloader
+openai-whisper
+sqlite-utils
+yt-dlp
+requests
