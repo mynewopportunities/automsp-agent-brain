@@ -1,0 +1,1 @@
+Unable to complete task. Cannot determine what "Onboard with Paperclip" entails without web search, which requires a Brave Search API key. No available documentation.

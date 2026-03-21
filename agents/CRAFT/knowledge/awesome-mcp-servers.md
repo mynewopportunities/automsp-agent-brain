@@ -1,0 +1,52 @@
+Awesome MCP Servers | A curated list of awesome Model Context Protocol (MCP) servers.
+
+The list focuses on production-ready and experimental MCP servers for extending AI capabilities through file access, database connections, API integrations, and other contextual services. Important links provided in the document include:
+- [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-2025) report.
+- [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
+- Test servers using [MCP Inspector](https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D).
+
+Categories of servers include:
+- Aggregators
+- Art & Culture
+- Architecture & Design
+- Browser Automation
+- Biology Medicine and Bioinformatics
+- Cloud Platforms
+- Code Execution
+- Coding Agents
+- Command Line
+- Communication
+- Customer Data Platforms
+- Databases
+- Data Platforms
+- Delivery
+- Developer Tools
+- Data Science Tools
+- Data Visualization
+- Embedded system
+- Education
+- Environment & Nature
+- File Systems
+- Finance & Fintech
+- Gaming
+- Home Automation
+- Knowledge & Memory
+- Legal
+- Location Services
+- Marketing
+- Monitoring
+- Multimedia Process
+- Product Management
+- Real Estate
+- Research
+- Search & Data Extraction
+- Security
+- Social Media
+- Sports
+- Support & Service Management
+- Translation Services
+- Text-to-Speech
+- Travel & Transportation
+- Version Control
+- Workplace & Productivity
+- Other Tools and Integrations

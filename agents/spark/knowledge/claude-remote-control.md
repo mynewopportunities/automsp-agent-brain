@@ -1,1 +1,2 @@
-Claude Remote Control requires Pro/Max plan only, uses outbound-only HTTPS, commands are claude remote-control --verbose --sandbox, persistence via tmux/systemd/LaunchAgent, OpenClaw beats it for scheduled tasks and automation. AutoMSP relevance: good LinkedIn content comparing OpenClaw vs Claude Remote, clients on Pro/Max can use it for device continuity.
+Claude Remote Control requires Pro/Max plan only, uses outbound-only HTTPS, commands are claude remote-control --verbose --sandbox, persistence via tmux/systemd/LaunchAgent, OpenClaw beats it for scheduled tasks and automation.
+AutoMSP relevance: good LinkedIn content comparing OpenClaw vs Claude Remote, clients on Pro/Max can use it for device continuity.
