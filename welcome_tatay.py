@@ -50,13 +50,13 @@ def audio_callback(indata, frames, time_info, status):
  global triggered, clap_times
 
  if triggered:
- return
+  return
 
  rms = float(np.sqrt(np.mean(indata ** 2)))
  now = time.time()
 
  if rms > THRESHOLD:
- with lock:
+   with lock:
  # Ignore if within the cooldown of the previous clap
  if clap_times and (now - clap_times[-1]) < COOLDOWN:
  return
